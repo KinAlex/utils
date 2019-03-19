@@ -1,0 +1,20 @@
+{
+  "name": "kinshin/utils",
+  "description": "Tool for checking open/closed braces.",
+  "minimum-stability": "stable",
+  "license": "MIT",
+  "require": {
+    "php": ">=7.2.0"
+  },
+  "autoload": {
+    "psr-4": {
+      "kinshin\\utils\\": "src/"
+    }
+  },
+  "authors": [
+    {
+      "name": "Alex Kin",
+      "email": "cricket-man@mail.ru"
+    }
+  ]
+}
