@@ -4,8 +4,10 @@ namespace kinshin\utils;
 
 /**
  * Class Util
+ *
+ * Some stuff, just practicing.
  */
-class Util
+class Utils
 {
     const BRACES = [
         '(' => ')',
@@ -14,7 +16,7 @@ class Util
     ];
 
     /**
-     * Check if braces are bakanced.
+     * Check if braces are balanced.
      *
      * @param string $str String of braces.
      *
